@@ -18,13 +18,13 @@ Then, the data.frame x_data is subsetted using as parameter the positions of the
 
 3- Uses descriptive activity names to name the activities in the data set.
 
-Firstly, the DB "acvitivity_labels" is imported in R.With a for loop, the names of the activities are associated with the corresponding numeric codification.
+Firstly, the DB "acvitivity_labels" is imported in R. With a for loop, the names of the activities are associated with the corresponding numeric codification.
 
 4- Appropriately labels the data set with descriptive variable names.
 
-The "all_data" DB is built and with the rename function of the plyr package are named the columns of the DB
+The "all_data" DB is built and the columns of the DB are named using the rename function of the plyr package.  
 
 5- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-We get a new dataset from the "all_data" grouping by the variables subject and activity. Later, with the "summarize_all" function, we get the mean of the all other variables.
+We get a new dataset from the "all_data" grouping by subject and activity variables. Later, with the "summarize_all" function, we get the mean of the all other variables considering the previous grouping.
 Finally,we write on a file.txt the "all_data_final" DB. 
