@@ -7,6 +7,7 @@ The code reported in the GitHub repository "run_analysis.R" has the objective to
 ## Step
 
 1- Merges the training and the test sets to create one data set.
+
 In the first part of the code, the dataset related to training and test subjects are imported in R.
 Datasets are merged with the instruction rbind
 
