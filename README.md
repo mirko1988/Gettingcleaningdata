@@ -2,14 +2,14 @@
 
 ## Introduction
 
-The code reported in the GitHub repository "run_analysis.R" has the objective to restructure the accelerometer data recovered by from the Samsung Galaxy S smartphone.
+The code reported in the GitHub repository in the dile "run_analysis.R" has the objective to restructure the accelerometer data recovered from the Samsung Galaxy S smartphone.
 
 ## Step
 
 1- Merges the training and the test sets to create one data set.
 
 In the first part of the code, the dataset related to training and test subjects are imported in R.
-Datasets are merged with the instruction rbind
+Datasets are merged with the instruction rbind.
 
 2- Extracts only the measurements on the mean and standard deviation for each measurement.
 
