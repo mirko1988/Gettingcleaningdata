@@ -60,10 +60,15 @@ Subject:
 
 Activities:
        LAYING
+       
        SITTING
+       
        STANDING
+       
        WALKING
+       
        WALKING UPSTAIRS
+       
        WALKING DOWNSTAIRS
         
         
