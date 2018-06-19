@@ -60,17 +60,17 @@ Subject:
 
 Activities:
        
-       LAYING
+LAYING
        
-       SITTING
+SITTING
        
-       STANDING
+STANDING
        
-       WALKING
+WALKING
        
-       WALKING UPSTAIRS
+WALKING UPSTAIRS
        
-       WALKING DOWNSTAIRS
+WALKING DOWNSTAIRS
         
         
 
