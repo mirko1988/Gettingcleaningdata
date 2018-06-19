@@ -59,7 +59,12 @@ Subject:
         from 1 to 30
 
 Activities:
-        
+       LAYING
+       SITTING
+       STANDING
+       WALKING
+       WALKING UPSTAIRS
+       WALKING DOWNSTAIRS
         
         
 
